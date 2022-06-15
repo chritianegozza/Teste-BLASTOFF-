@@ -1,0 +1,26 @@
+.links:link, a:visited {
+	text-decoration: none
+	}
+.links:hover {
+	text-decoration: underline;
+	color: #f00
+	}
+.links:active {
+	text-decoration: none
+	}
+
+
+
+/*questão 12*/
+	li.list-item {
+		color: red;
+		}
+		.list-item {
+		color: blue
+		}
+		#list .list-item {
+		color: green
+		}
+		ul li {
+		color: black;
+		}
